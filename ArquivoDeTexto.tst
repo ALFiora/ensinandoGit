@@ -1,5 +1,5 @@
-%(c)−MagnoEnriqueMendozaMeza
-%Aula3−Exemplo1
+% (c)−MagnoEnriqueMendozaMeza
+% Aula3−Exemplo1
 closeall
 clearall
 clc
