@@ -3,7 +3,7 @@
 closeall
 clearall
 clc
-%Numeradoredenominadordosistemacontinuo
+% Numeradoredenominadordosistemacontinuo
 ns=[11];
 ds=[16∗0.59];
 %FunÃ§caodetransferenciadosistemaemtempocontinuo
